@@ -1,0 +1,50 @@
+[
+    {
+        "id": "intimate",
+        "name": "Intimate Elegance",
+        "description": "Perfect for small, meaningful gatherings with your closest circle.",
+        "price": 25000000,
+        "image": "https://picsum.photos/seed/intimate/800/600",
+        "features": [
+            "Up to 50 guests",
+            "Venue selection & booking",
+            "Minimalist elegant decor",
+            "Boutique catering menu",
+            "Professional photography (4 hours)"
+        ],
+        "long_description": "Our Intimate Elegance package is designed for couples who value privacy and deep connection. We focus on every tiny detail to ensure your small wedding feels grand in its own unique way. From curated guest experiences to bespoke decor, this package covers all the essentials for a perfect day."
+    },
+    {
+        "id": "royal",
+        "name": "Royal Grandeur",
+        "description": "A majestic celebration with no detail left to chance.",
+        "price": 150000000,
+        "image": "https://picsum.photos/seed/royal/800/600",
+        "features": [
+            "Up to 500 guests",
+            "Luxury ballroom venue",
+            "Exquisite floral arrangements",
+            "Premium multi-course catering",
+            "Cinematic videography & photography",
+            "Live orchestra & entertainment",
+            "Full day coordination"
+        ],
+        "long_description": "The Royal Grandeur package is for those who dream of a fairy-tale wedding. We provide comprehensive planning, from the initial concept to the final send-off. Our team handles the logistics of hundreds of guests, complex entertainment schedules, and high-end vendor management, leaving you to enjoy every moment of your magnificent celebration."
+    },
+    {
+        "id": "modern-chic",
+        "name": "Modern Chic",
+        "description": "Sophisticated, trendy, and effortlessly beautiful.",
+        "price": 75000000,
+        "image": "https://picsum.photos/seed/modern/800/600",
+        "features": [
+            "Up to 150 guests",
+            "Contemporary urban venue",
+            "Modern geometric decor",
+            "Fusion catering menu",
+            "Full planning & styling",
+            "Digital guest management"
+        ],
+        "long_description": "Modern Chic is about breaking traditions in style. We focus on trendy aesthetics, unique urban spaces, and a vibe that reflects your personal journey. Ideal for couples who want a wedding that looks like it's straight out of a design magazine."
+    }
+]
