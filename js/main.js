@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const mainContent = document.querySelector('.main-content');
 
     if (mobileToggle) {
-        mobileToggle.addEventListener('click', () => {
+        mobileToggle.addEventListener('click', (e) => {
+            e.stopPropagation();
             sidebar.classList.toggle('open');
         });
     }
@@ -18,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Add active class to nav links based on current path
     const currentPath = window.location.pathname.split('/').pop() || 'index.php';
-    const navLinks = document.querySelectorAll('.nav-links a');
+    const navLinks = document.querySelectorAll('.nav-links a, .nav-links-horizontal a');
     navLinks.forEach(link => {
         const linkPath = link.getAttribute('href');
         if (linkPath === currentPath) {
