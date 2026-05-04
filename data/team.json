@@ -1,0 +1,53 @@
+{
+    "team_members": [
+        {
+            "name": "MUHAMMAD TAMIR",
+            "nim": "09031382530170",
+            "image": "https://picsum.photos/seed/09031382530170/200",
+            "social_link": "https://www.instagram.com/neko.monci",
+            "is_lead": true
+        },
+        {
+            "name": "RAFFI ADITYA PUTRA",
+            "nim": "09031382530165",
+            "image": "https://picsum.photos/seed/09031382530165/200",
+            "social_link": "https://www.instagram.com/raffiadtra"
+        },
+        {
+            "name": "ALIYA SALSABILA",
+            "nim": "09031282530057",
+            "image": "https://picsum.photos/seed/09031282530057/200",
+            "social_link": "https://www.instagram.com/_aliyasalsa"
+        },
+        {
+            "name": "ACHMAD FAKHRI TAMAM",
+            "nim": "09031382530168",
+            "image": "https://picsum.photos/seed/09031382530168/200",
+            "social_link": "https://www.instagram.com/afakhritamam"
+        },
+        {
+            "name": "TAUFIQUL RAHMAN",
+            "nim": "09031382530178",
+            "image": "https://picsum.photos/seed/09031382530178/200",
+            "social_link": "https://www.instagram.com/taufiqullrahman"
+        },
+        {
+            "name": "NAZWA AULIA SYAKIRA",
+            "nim": "09031382530152",
+            "image": "https://picsum.photos/seed/09031382530152/200",
+            "social_link": "https://www.instagram.com/nzw_syk/"
+        },
+        {
+            "name": "QINAYU QANITA ZULKARNAIN",
+            "nim": "09031282530055",
+            "image": "https://picsum.photos/seed/09031282530055/200",
+            "social_link": "https://www.instagram.com/qnyzzz/"
+        },
+        {
+            "name": "KHANITA FAHIRA",
+            "nim": "09031382530153",
+            "image": "https://picsum.photos/seed/09031382530153/200",
+            "social_link": "https://www.instagram.com/khaneeraa"
+        }
+    ]
+}

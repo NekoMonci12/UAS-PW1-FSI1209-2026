@@ -348,3 +348,21 @@ footer {
     border-color: var(--accent);
     outline: none;
 }
+
+/* Developer Credits Styles */
+.developer-name:hover {
+    color: var(--accent);
+    transform: translateY(-2px);
+}
+
+.developer-card {
+    transition: var(--transition);
+    border: 1px solid transparent;
+}
+
+.developer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+    border-color: rgba(var(--accent-rgb), 0.1);
+    background: var(--white) !important;
+}
