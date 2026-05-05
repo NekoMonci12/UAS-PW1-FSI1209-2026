@@ -9,6 +9,6 @@
 7. **QINAYU QANITA ZULKARNAIN**
 8. **KHANITA FAHIRA**
 
-# Informatiom & Notes
+# Information & Notes
 - Kode Mata Kuliah: `FSI1209`
 - Tujuan Project: `UAS Mata Kuliah`
